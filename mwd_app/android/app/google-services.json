@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011882946524",
+    "project_id": "mwd-app-c63bb",
+    "storage_bucket": "mwd-app-c63bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011882946524:android:81f0322a0dc800f11ba919",
+        "android_client_info": {
+          "package_name": "com.example.mwd_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011882946524-q9lgjbe2ego3s3rnhbgsn256nkal2bfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzc02j9A6FgVMnQXfmhba-iNglfPrMeyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011882946524-q9lgjbe2ego3s3rnhbgsn256nkal2bfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
